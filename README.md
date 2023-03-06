@@ -1,1 +1,2 @@
 # Decks
+EDOPro Decklists
